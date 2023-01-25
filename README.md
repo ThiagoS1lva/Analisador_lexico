@@ -1,6 +1,6 @@
 # Analisador_lexico
 
-#DESCRIÇÃO TEORICA DO ANALISADOR LÉXICO
+# DESCRIÇÃO TEORICA DO ANALISADOR LÉXICO
 
   Um analisador léxico, também conhecido como scanner ou tokenizer, é uma
 parte importante de um compilador ou interpretador de linguagem de programação.
@@ -17,7 +17,7 @@ reconhecido, ele é adicionado à lista de tokens gerada pelo analisador léxico
 sintática, e os tokens gerados são usados pelo analisador sintático para reconhecer
 a estrutura gramatical do código e verificar se ele segue as regras da linguagem.
 
-#DESCRIÇÃO DA ESTRUTURA DO ANALISADOR LÉXICO
+# DESCRIÇÃO DA ESTRUTURA DO ANALISADOR LÉXICO
 
   A estrutura de um analisador léxico geralmente é composta por três partes
 principais: a tabela de símbolos, a máquina de estado, tratamento de erros e o
