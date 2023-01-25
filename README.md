@@ -85,4 +85,4 @@ fonte estar presente algum caractere que não pertença a linguagem.
 No “main” do programa, o código fonte é lido através da string “code” e depois a
 função “proximo_token()” é chamada para rodar o analisador léxico.
 
-# Trabalho realizado por Pedro Henrique, Pedro vítor e Thiago Oliveira do Curso de Ciência da Computação da UERJ no periodo de 2022.1 em Janeiro de 2023.
+# Trabalho realizado por Pedro Henrique, Pedro vítor e Thiago Oliveira do Curso de Ciência da Computação da UERJ no periodo de 2022.2 em Janeiro de 2023.
